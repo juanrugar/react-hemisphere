@@ -1,7 +1,7 @@
 import React from 'react';
 import './Hemisphere.css';
-import northernPic from './image/northern.jpg';
-import southernPic from './image/southern.jpg';
+import northernPic from './image/northern-hemisphere.jpg';
+import southernPic from './image/southern-hemisphere.jpg';
 
 
 //configuration object to clean the code
